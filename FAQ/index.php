@@ -2,10 +2,9 @@
 /*
  * Plugin Name: FAQ
  * Description: A simple WordPress plugin that allows user to create faq with contnet
- * Version: 1.0
+ * Version: 1.2.0
  * Author: sameh helal
- * Author URI: https://www.siliconexpert.com/
- * Text Domain: https://www.siliconexpert.com/
+ * Author URI: https://www.linkedin.com/in/sameh-helal/
  */
 
 if( !function_exists( 'add_action' ) ){
